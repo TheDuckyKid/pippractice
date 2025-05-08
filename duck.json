@@ -1,0 +1,29 @@
+{
+  "user": "alan_the_collector",
+  "platforms": ["PC", "PS3", "PS4", "Xbox One", "PS Vita", "Wii U"],
+  "games": [
+    {
+      "title": "Yakuza 0",
+      "platform": "PC",
+      "completed": true,
+      "hours_played": 30
+    },
+    {
+      "title": "Halo: The Master Chief Collection",
+      "platform": "Xbox One",
+      "completed": false,
+      "hours_played": 50
+    },
+    {
+      "title": "Death Stranding",
+      "platform": "PS4",
+      "completed": true,
+      "hours_played": 45
+    }
+  ],
+  "wishlist": [
+    "Cyberpunk 2077",
+    "Ghost of Tsushima",
+    "Starfield"
+  ]
+}
